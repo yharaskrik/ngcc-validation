@@ -4347,12 +4347,10 @@ angular-in-memory-web-api@0.9.0:
   resolved "https://registry.yarnpkg.com/angular-in-memory-web-api/-/angular-in-memory-web-api-0.9.0.tgz#6c98d9494fadc6b98f54e68376a1998ccfff04bc"
   integrity sha512-//PiJ5qb1+Yf/N7270ioQqR2laf4/Irjavg+M+WEn8y4At9LUoYgbQ5HVwvM5xUTlVlL0XkbJRLxREcGGNdIEw==
 
-angular-l10n@8.1.2:
-  version "8.1.2"
-  resolved "https://registry.yarnpkg.com/angular-l10n/-/angular-l10n-8.1.2.tgz#75738b2a62ed36bc9c89a0042043b2d512381717"
-  integrity sha512-oTP/hvgCZ48/BRomnHFEJoPI2gTehr3Uo04pAEoYjXTujyhcoacJxr2MjeJ7RMSY0OhCQPKcztFIScr3wgqvZQ==
-  dependencies:
-    tslib "^1.9.0"
+angular-l10n@9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/angular-l10n/-/angular-l10n-9.0.0.tgz#9ab734d42db2d0a01861f4487e4ec2f77ced83bc"
+  integrity sha512-wiu0y6toT4znlTr2JpF50TTpTOfVPbqgWxwaPG0tp2X9t4/1AUgkwZiWl4ikXkr996bpXZYs4oOixqqT90lhUw==
 
 angular-mydatepicker@^0.3.0:
   version "0.3.2"
